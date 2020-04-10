@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="68bdc731-0fc0-49cd-8efe-c3353057ba36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aLmMN0O3mfNmg30BbTEm0e4cTl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/com/bank" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\way2automation\xyz-bank\src\test\java\com\bank" />
+      <recent name="C:\way2automation\xyz-bank\src\main\java\com\bank" />
+      <recent name="C:\way2automation\xyz-bank" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.BankTest">
+    <configuration name="BankTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xyz-bank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bank.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.bank.testsuite.BankTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.bankManagerShouldAddCustomerSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xyz-bank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bank.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.bank.testsuite.BankTest" />
+      <option name="METHOD_NAME" value="bankManagerShouldAddCustomerSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.bankManagerShouldOpenAccountSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xyz-bank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bank.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.bank.testsuite.BankTest" />
+      <option name="METHOD_NAME" value="bankManagerShouldOpenAccountSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.verifyUserShouldNavigateToLoginPage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="xyz-bank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bank.testsuite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bank.testsuite" />
+      <option name="MAIN_CLASS_NAME" value="com.bank.testsuite.BankTest" />
+      <option name="METHOD_NAME" value="verifyUserShouldNavigateToLoginPage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.BankTest" />
+        <item itemvalue="TestNG.BankTest.bankManagerShouldOpenAccountSuccessfully" />
+        <item itemvalue="TestNG.BankTest.bankManagerShouldAddCustomerSuccessfully" />
+        <item itemvalue="TestNG.BankTest.verifyUserShouldNavigateToLoginPage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68bdc731-0fc0-49cd-8efe-c3353057ba36" name="Default Changelist" comment="" />
+      <created>1586523199535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586523199535</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1293" y="19" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586527847247">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
+    </state>
+    <state x="-1293" y="19" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/-3840.-187.1280.680/-1920.-187.1920.1040@-1920.-187.1920.1040" timestamp="1586527847247" />
+    <state width="1865" height="391" key="GridCell.Tab.0.bottom" timestamp="1586537283618">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="391" key="GridCell.Tab.0.bottom/0.0.1366.728/-3840.-187.1280.680/-1920.-187.1920.1040@-1920.-187.1920.1040" timestamp="1586537283618" />
+    <state width="1865" height="391" key="GridCell.Tab.0.center" timestamp="1586537283618">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="391" key="GridCell.Tab.0.center/0.0.1366.728/-3840.-187.1280.680/-1920.-187.1920.1040@-1920.-187.1920.1040" timestamp="1586537283618" />
+    <state width="1865" height="391" key="GridCell.Tab.0.left" timestamp="1586537283618">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="391" key="GridCell.Tab.0.left/0.0.1366.728/-3840.-187.1280.680/-1920.-187.1920.1040@-1920.-187.1920.1040" timestamp="1586537283618" />
+    <state width="1865" height="391" key="GridCell.Tab.0.right" timestamp="1586537283618">
+      <screen x="-1920" y="-187" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="391" key="GridCell.Tab.0.right/0.0.1366.728/-3840.-187.1280.680/-1920.-187.1920.1040@-1920.-187.1920.1040" timestamp="1586537283618" />
+  </component>
+</project>
